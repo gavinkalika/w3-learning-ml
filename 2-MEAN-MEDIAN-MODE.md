@@ -1,0 +1,4 @@
+- In ML it is helpful to know the definition of the three words mean, median mode
+    - mean is the average value
+    - median is the mid point value
+    - mode is the most common value
