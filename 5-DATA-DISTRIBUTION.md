@@ -1,0 +1,1 @@
+- Histogram displays the frequency of the X values. 
