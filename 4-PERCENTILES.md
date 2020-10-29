@@ -1,0 +1,4 @@
+- Percentiles give you a number that describes the percentage of values that are less than that number.
+- When a value is given x percentile, this means that x percentage of values in the distribution is below that value.
+    -  https://medium.com/technology-nineleaps/basics-of-statistics-for-machine-learning-engineers-ii-d25c5a5dac67
+    -  What does author mean by distribution ... does he mean dataset?
